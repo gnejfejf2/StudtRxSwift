@@ -1,7 +1,9 @@
 version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
-options: "b9d742f20af2a274b15f7ce60c59f68d"
-build_time: [1625988562, 71490000]
+options: "6cbfffaa777a02d9bff540b44c8fc662"
+build_time: [1625989260, 658243000]
 inputs:
-  "/Users/kangjiyoun/Desktop/StudyRxSwift/StudyRxSwift/ViewController.swift": [1625988559, 381421939]
-  "/Users/kangjiyoun/Desktop/StudyRxSwift/StudyRxSwift/AppDelegate.swift": [1625988559, 376104342]
-  "/Users/kangjiyoun/Desktop/StudyRxSwift/StudyRxSwift/SceneDelegate.swift": [1625988559, 379419896]
+  "/Users/kangjiyoun/Desktop/StudyRxSwift/StudyRxSwift/AppDelegate.swift": [1625988927, 912888058]
+  "/Users/kangjiyoun/Desktop/StudyRxSwift/StudyRxSwift/SceneDelegate.swift": [1625988927, 902918174]
+  "/Users/kangjiyoun/Desktop/StudyRxSwift/StudyRxSwift/Service/MoemoStorage/MemoStorageType.swift": [1625989195, 147397467]
+  "/Users/kangjiyoun/Desktop/StudyRxSwift/StudyRxSwift/Model/Memo.swift": [1625989195, 128454325]
+  "/Users/kangjiyoun/Desktop/StudyRxSwift/StudyRxSwift/Service/MoemoStorage/MemoryStorage.swift": [1625989246, 846371825]
