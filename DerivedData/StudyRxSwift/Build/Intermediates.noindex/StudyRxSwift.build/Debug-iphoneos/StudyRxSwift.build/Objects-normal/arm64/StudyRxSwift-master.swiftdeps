@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "b9d742f20af2a274b15f7ce60c59f68d"
+build_time: [1625988562, 71490000]
+inputs:
+  "/Users/kangjiyoun/Desktop/StudyRxSwift/StudyRxSwift/ViewController.swift": [1625988559, 381421939]
+  "/Users/kangjiyoun/Desktop/StudyRxSwift/StudyRxSwift/AppDelegate.swift": [1625988559, 376104342]
+  "/Users/kangjiyoun/Desktop/StudyRxSwift/StudyRxSwift/SceneDelegate.swift": [1625988559, 379419896]
